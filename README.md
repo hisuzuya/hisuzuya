@@ -6,9 +6,6 @@
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=hisuzuya&label=Profile%20views&color=0e75b6&style=flat" alt="hisuzuya" />
-  <img src="https://img.shields.io/github/followers/hisuzuya?style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/hisuzuya?style=social" alt="GitHub stars" />
-  <img src="https://img.shields.io/twitter/follow/hisuzuya1?style=social" alt="X followers" />
 </p>
 
 ## 👨‍💻 About Me
@@ -57,12 +54,6 @@
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=hisuzuya&theme=github-light&hide_border=true" alt="Activity Graph" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/hisuzuya/hisuzuya/output/github-snake.svg" alt="Snake animation" />
 </p>
 
 ## 🌐 Connect with me
