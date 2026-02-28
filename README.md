@@ -73,8 +73,3 @@
   <a href="https://qiita.com/hisuzuya" target="_blank"><img src="https://img.shields.io/badge/Qiita-55C500?style=for-the-badge&logo=qiita&logoColor=white" alt="Qiita" /></a>
 </p>
 
----
-
-<p align="center">
-  <i>"Solving business challenges with cutting-edge AI technology"</i>
-</p>
