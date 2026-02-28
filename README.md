@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hisuzuya&label=Profile%20views&color=0e75b6&style=flat" alt="hisuzuya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hisuzuya&theme=flat&no-frame=true&margin-w=10&no-bg=true" alt="hisuzuya" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-liard-delta.vercel.app/?username=hisuzuya&theme=flat&no-frame=true&margin-w=10&no-bg=true" alt="hisuzuya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -78,12 +78,4 @@
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hisuzuya&show_icons=true&locale=en&layout=compact&theme=default&cache_seconds=86400" alt="hisuzuya" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=hisuzuya&show_icons=true&locale=en&theme=default&cache_seconds=86400" alt="hisuzuya" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hisuzuya&theme=default" alt="hisuzuya" /></p>
-
-<h3 align="left">Activity Graph:</h3>
-
-<p><img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=hisuzuya&theme=github-light&hide_border=true" alt="hisuzuya" /></p>
